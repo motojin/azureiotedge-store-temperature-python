@@ -1,0 +1,1 @@
+# azureiotedge-store-temperature-python
